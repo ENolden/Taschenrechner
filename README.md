@@ -1,11 +1,10 @@
-# Taschenrechner
+Taschenrechner
 
 Ein einfacher **Taschenrechner** in **Python** mit **Tkinter GUI**.  
 Er unterstützt grundlegende Rechenoperationen wie Addition, Subtraktion, Multiplikation und Division und hat eine benutzerfreundliche Oberfläche.
 
 ---
-
-## 🎨 Features
+Features
 
 - Einfache GUI mit Tkinter
 - Grundrechenarten: `+`, `-`, `*`, `/`
@@ -20,7 +19,7 @@ Er unterstützt grundlegende Rechenoperationen wie Addition, Subtraktion, Multip
 
 ---
 
-## 💻 Installation
+Installation
 
 1. **Python installieren** (Version 3.x)  
    [https://www.python.org/downloads/](https://www.python.org/downloads/)
